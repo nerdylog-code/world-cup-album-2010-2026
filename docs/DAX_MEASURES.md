@@ -507,13 +507,13 @@ DATATABLE(
     "Confederation", STRING,
     "Role", STRING,
     {
-        {"analyst@uefa.com", "UEFA", "Analyst"},
-        {"analyst@conmebol.com", "CONMEBOL", "Analyst"},
-        {"analyst@caf.com", "CAF", "Analyst"},
-        {"analyst@afc.com", "AFC", "Analyst"},
-        {"analyst@concacaf.com", "CONCACAF", "Analyst"},
-        {"analyst@ofc.com", "OFC", "Analyst"},
-        {"admin@fifa.com", "ALL", "Admin"}
+        {"analyst@uefa.example", "UEFA", "Analyst"},
+        {"analyst@conmebol.example", "CONMEBOL", "Analyst"},
+        {"analyst@caf.example", "CAF", "Analyst"},
+        {"analyst@afc.example", "AFC", "Analyst"},
+        {"analyst@concacaf.example", "CONCACAF", "Analyst"},
+        {"analyst@ofc.example", "OFC", "Analyst"},
+        {"admin@fifa.example", "ALL", "Admin"}
     }
 )
 ```
